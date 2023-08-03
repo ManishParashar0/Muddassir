@@ -9,6 +9,8 @@
     <title>QR CODE GENERATOR USING JS</title>
 </head>
 <body>
+## 
+
     <div class="container">
         <div class="box">
             <h2 class="title">Enter  your text or URL</h2>
